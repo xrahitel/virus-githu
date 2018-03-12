@@ -1,4 +1,4 @@
-# xrahitel для установки запустите файл virus.pyw)))virus.pyw
+# xrahitel to install, run the file virus.pyw
 Zoom is a dedicated wordpress username enumeration tool with infinite scanning.
 #### Usages
 Zoom will run on any device having python2.<br>
